@@ -32,7 +32,8 @@ This project is an Excel-based expense tracker designed to help self-employed in
 
 ⦁	Maintaining simple self-employment financial records
 
-<img width="359" height="318" alt="image" src="https://github.com/user-attachments/assets/96c0532d-cefb-4aea-81bc-c0a6773977ae" />
+<img width="451" height="496" alt="image" src="https://github.com/user-attachments/assets/0e529e92-71d8-4612-86b0-3595d42142ab" />
+
 <img width="556" height="56" alt="image" src="https://github.com/user-attachments/assets/4d62de80-ca91-4ca1-bd5c-063b2466d288" />
 <img width="267" height="656" alt="image" src="https://github.com/user-attachments/assets/50d4d5e9-de27-4aae-8128-cbf2cb73f650" />
 
